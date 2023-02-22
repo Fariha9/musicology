@@ -360,8 +360,16 @@ nav .search_bar img{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 135px 300px;
+    padding: 135px 0px;
     text-align: center;
+}
+#subscribe .heading p {
+    width: 60%;
+    margin-left: 320px;
+    padding-bottom: 80px;
+    font-family: var(--secondaryfont);
+    font-size: 30px;
+    font-weight: 400;
 }
 #subscribe form{
     margin: 50px 0px 0px 0px;
