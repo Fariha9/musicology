@@ -382,6 +382,7 @@ nav .search_bar img{
     font-family: var(--secondaryfont);
     font-weight: 400;
     padding: 0px 30px;
+    margin-left: 320px;
 }
 #subscribe a{
     border: 1px;
